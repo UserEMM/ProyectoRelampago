@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Relampago2\\Relampago2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|d:\\relampago2\\relampago2\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\marcas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:marcas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\marcas.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:marcas.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|D:\\Relampago2\\Relampago2\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF7417-BA5A-4314-8B58-58C5908C48B9}|Relampago2.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T02:47:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T02:47:34.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\manifest.json",
+              "RelativeDocumentMoniker": "manifest.json",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\manifest.json",
+              "RelativeToolTip": "manifest.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T03:17:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\index.aspx.cs",
+              "RelativeDocumentMoniker": "index.aspx.cs",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\index.aspx.cs",
+              "RelativeToolTip": "index.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-14T02:47:34.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marcas.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\Marcas.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Marcas.aspx.designer.cs",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\Marcas.aspx.designer.cs",
+              "RelativeToolTip": "Marcas.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:47:34.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marcas.aspx.cs",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\Marcas.aspx.cs",
+              "RelativeDocumentMoniker": "Marcas.aspx.cs",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\Marcas.aspx.cs",
+              "RelativeToolTip": "Marcas.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-14T02:47:34.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Relampago2\\Relampago2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\Relampago2\\Relampago2\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-14T02:47:34.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
